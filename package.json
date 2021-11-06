@@ -1,0 +1,14 @@
+{
+  "name": "envio-de-email-com-node",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/matheuspython/envio-de-email-com-node.git",
+  "author": "matheuspython <ruivorobado@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@sendgrid/mail": "^7.6.0",
+    "dotenv-safe": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemailer": "^6.7.0"
+  }
+}
